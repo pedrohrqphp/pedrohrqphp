@@ -1,4 +1,3 @@
-Oi aqui é o reizinho do PHP 🫅🏽
 <picture>
   <source
     srcset="https://github-readme-stats-n1ck120.vercel.app/api?username=pedrohrqphp&show_icons=true&theme=github_dark&border_radius=30&include_all_commits=true&count_private=true"
