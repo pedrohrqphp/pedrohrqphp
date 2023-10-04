@@ -35,7 +35,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      height="180em" srcset="https://github-readme-stats-pedrohrqphp.vercel.app/api/?username=pedrohrqphp&show_icons=true&theme=graywhite&border_radius=30&include_all_commits=true&count_private=true"
+      height="180em" srcset="https://github-readme-stats-pedrohrqphp.vercel.app/api/?username=pedrohrqphp&show_icons=true&theme=swift&border_radius=30&include_all_commits=true&count_private=true"
       media="(prefers-color-scheme: light)"
     />
     <img src="https://github-readme-stats-pedrohrqphp.vercel.app/api/?username=pedrohrqphp&show_icons=true" /> 
@@ -47,7 +47,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <source
-      height="180em" srcset="https://github-readme-stats-pedrohrqphp.vercel.app/api/top-langs/?username=pedrohrqphp&layout=compact&theme=graywhite&border_radius=30"
+      height="180em" srcset="https://github-readme-stats-pedrohrqphp.vercel.app/api/top-langs/?username=pedrohrqphp&layout=compact&theme=swift&border_radius=30"
       media="(prefers-color-scheme: light)"
     />
     <img src="https://github-readme-stats-pedrohrqphp.vercel.app/api/?username=pedrohrqphp&show_icons=true" />
