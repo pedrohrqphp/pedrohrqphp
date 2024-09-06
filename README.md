@@ -1,32 +1,11 @@
+# Olá, seja bem-vindo!
 
+Me chamo Pedro Henrique, tenho 19 anos e sou Desenvolvedor Full-Stack.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=808080&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Pedro!)](https://git.io/typing-svg)
+Estudei **Desenvolvimento de Sistemas** na Etec JK e sou estudante de **Desenvolvimento de Software Multiplataforma** na Fatec Diadema.
 
-##
-<div align="center">
-  Aqui você encontrará uma amostra dos meus projetos e habilidades como estudante de desenvolvimento de software. Espero que encontre inspiração e uma visão clara das minhas habilidades e paixão pelo desenvolvimento de software. Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo para discutir oportunidades de colaboração ou projetos interessantes.</div>
+Peço perdão pela falta de exemplares, estou atualmente trabalhando em projetos para preencher este GitHub. Espero que encontre uma visão das minhas habilidades e que se sinta-se à vontade para entrar em contato comigo em qualquer uma das minhas redes fixadas ao lado para discutir oportunidades e colaborações.
 
-##
-
-<div>
-  <p align="center">
-    <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48px"></a>
-    <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Python" width="48px"></a> 
-    <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48px"></a>  
-    <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48px"></a>  
-    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48px"></a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-    <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="BootStrap" width="48px"></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48px"></a>
-    <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="48px"></a>
-    <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="48px"></a>
-    <a href="https://www.vim.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="48px"></a>
-    <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="48px"></a>
-  </p>
-</div>
-
-##
 
 <div align="center">
   <picture>
@@ -51,16 +30,32 @@
       media="(prefers-color-scheme: light)"
     />
     <img src="https://github-readme-stats-pedrohrqphp.vercel.app/api/?username=pedrohrqphp&show_icons=true" />
-</picture>
+  </picture>
 </div>
 
-##
 
+## Tecnologias estudadas:
+### ETEC
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50px>
+</div>
+    
+#
 
-
-<h3 align="center">Para mais informações acesse o LinkedIn</h3>
-<p  align="center">
-<a href="https://linkedin.com/in/pedrohrqphp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrieldouradosantos" height="30" width="50" /></a>
-</p>
-
-##
+### FATEC
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="50px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring" width="50px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="Kotlin" width="50px">
+</div>
