@@ -35,7 +35,7 @@ Peço perdão pela falta de exemplares, estou atualmente trabalhando em projetos
 
 
 ## Tecnologias estudadas:
-### ETEC
+## ETEC
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50px">
@@ -46,9 +46,9 @@ Peço perdão pela falta de exemplares, estou atualmente trabalhando em projetos
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50px>
 </div>
     
-# - 
+###
 
-### FATEC
+## FATEC
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="50px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px">
