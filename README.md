@@ -46,7 +46,7 @@ Peço perdão pela falta de exemplares, estou atualmente trabalhando em projetos
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50px>
 </div>
     
-###
+#
 
 ## FATEC
 <div>
